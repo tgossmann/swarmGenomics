@@ -11,7 +11,7 @@ Recent advances in sequencing technology have led to bloom of genomic resources,
 
 https://cloud.denbi.de/
 
-### Github
+### Example Scripts
 
 https://github.com/inaKarabay/SwarmGenomics
 
