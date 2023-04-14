@@ -19,3 +19,23 @@ https://github.com/inaKarabay/SwarmGenomics
 
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/
 - https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_other/
+
+## First steps
+
+- Install missing software (Installations required:
+fastq-dump
+fastqc
+trimmomatic
+bwa
+samtools
+bcftools
+vcfutils
+vcftools
+csplit
+psmc
+bedtools
+tabix
+COMMENT1)
+
+- Select a reference genome (see links above)
+- Select a SRA archive (one!) for your species (is it from the reference bird or another individual) - see VertebrateSRAxxx.csv
